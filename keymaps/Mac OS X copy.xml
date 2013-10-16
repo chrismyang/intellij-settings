@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="control X" second-keystroke="1" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta F4" />
+    <keyboard-shortcut first-keystroke="control X" second-keystroke="0" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta Y" />
+    <keyboard-shortcut first-keystroke="meta D" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="control X" second-keystroke="4" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="control TAB" />
+    <keyboard-shortcut first-keystroke="control X" second-keystroke="O" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="control J" />
+    <mouse-shortcut keystroke="control button2" />
+    <keyboard-shortcut first-keystroke="control Q" />
+  </action>
+  <action id="Scala.GoToImplicit">
+    <keyboard-shortcut first-keystroke="shift control I" />
+  </action>
+  <action id="Scala.MakeExplicit" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="control X" second-keystroke="2" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="control X" second-keystroke="3" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="control alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="control alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="control alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="control alt UP" />
+  </action>
+</keymap>
+

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="CommunityFileTypes" version="11">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
+    <extensionMap>
+      <mapping pattern="conc" type="PLAIN_TEXT" />
+      <mapping pattern="fdfdf" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="tx" type="PLAIN_TEXT" />
+      <mapping ext="bson" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="sbt" type="PLAIN_TEXT" />
+      <mapping ext="coffee" type="PLAIN_TEXT" />
+      <mapping ext="ssp" type="XHTML" />
+      <mapping ext="jspx" type="XML" />
+      <mapping ext="tagx" type="XML" />
+    </extensionMap>
+  </component>
+  <component name="FileTypeManager" version="11">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
+    <extensionMap>
+      <mapping pattern=".slugignore" type="PLAIN_TEXT" />
+      <mapping pattern="77de68daecd823babbb58edb1c8e14d7106e83bb" type="PLAIN_TEXT" />
+      <mapping pattern="serverConfig" type="PLAIN_TEXT" />
+      <mapping pattern="matplotlibrc" type="PLAIN_TEXT" />
+      <mapping pattern=".sbtrc" type="PLAIN_TEXT" />
+      <mapping pattern="master" type="PLAIN_TEXT" />
+      <mapping pattern="PACKAGES" type="PLAIN_TEXT" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="356a192b7913b04c54574d18c28d46e6395428ab" type="PLAIN_TEXT" />
+      <mapping pattern="da39a3ee5e6b4b0d3255bfef95601890afd80709" type="PLAIN_TEXT" />
+      <mapping pattern="da4b9237bacccdf19c0760cab7aec4a8359010b0" type="PLAIN_TEXT" />
+      <mapping pattern="currentCommitId" type="PLAIN_TEXT" />
+      <mapping pattern="df2fbeb1400acda0909a32c1cf6bf492f1121e07" type="PLAIN_TEXT" />
+      <mapping pattern="domino" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
+      <mapping pattern="b5328e221cdd2647e54c2e16b545ae2a7dd155f4" type="PLAIN_TEXT" />
+      <mapping pattern="fdfd" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping ext="m" type="PLAIN_TEXT" />
+      <mapping ext="r" type="PLAIN_TEXT" />
+      <mapping ext="bson" type="PLAIN_TEXT" />
+      <mapping ext="sbt" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="plugins" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
+

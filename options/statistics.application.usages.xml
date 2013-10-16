@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type">
+      <project id="domino" values="Remote,JavascriptDebugSession.Remote,Application,Play2FrameworkRunConfigurations" />
+      <project id="compiler-test" values="Remote" />
+      <project id="isabella" values="Remote,JavascriptDebugSession.Remote" />
+      <project id="cerebro" values="JavascriptDebugSession.Remote,Remote" />
+      <project id="sentinel" values="Remote" />
+      <project id="domino-help" values="Remote" />
+      <project id="domino-client" values="Application" />
+      <project id="quark" values="Remote" />
+      <project id="project-code" values="JavascriptDebugSession.Remote,Remote" />
+      <project id="longpoll" values="JavascriptDebugSession.Remote" />
+    </group>
+    <group name="language-level">
+      <project id="scala-notebook" values="JDK_1_6" />
+      <project id="compiler-test" values="JDK_1_6" />
+      <project id="domino" values="JDK_1_6" />
+      <project id="mylogger-sample" values="JDK_1_6" />
+      <project id="myproj" values="JDK_1_6" />
+      <project id="domino-help" values="JDK_1_6" />
+      <project id="domino-client" values="JDK_1_6" />
+      <project id="project-code" values="JDK_1_6" />
+      <project id="quark" values="JDK_1_6" />
+      <project id="isabella" values="JDK_1_6" />
+      <project id="cerebro" values="JDK_1_6" />
+      <project id="sentinel" values="JDK_1_6" />
+      <project id="longpoll" values="JDK_1_6" />
+    </group>
+    <group name="module type">
+      <project id="scala-notebook" values="JAVA_MODULE" />
+      <project id="compiler-test" values="JAVA_MODULE" />
+      <project id="domino" values="JAVA_MODULE" />
+      <project id="mylogger-sample" values="JAVA_MODULE" />
+      <project id="myproj" values="JAVA_MODULE" />
+      <project id="domino-help" values="JAVA_MODULE" />
+      <project id="domino-client" values="JAVA_MODULE" />
+      <project id="project-code" values="JAVA_MODULE" />
+      <project id="quark" values="JAVA_MODULE" />
+      <project id="isabella" values="JAVA_MODULE" />
+      <project id="cerebro" values="JAVA_MODULE" />
+      <project id="sentinel" values="JAVA_MODULE" />
+      <project id="longpoll" values="JAVA_MODULE" />
+    </group>
+    <group name="vcs">
+      <project id="scala-notebook" values="Git" />
+      <project id="domino" values="Git" />
+      <project id="compiler-test" values="Git" />
+      <project id="myproj" values="Git" />
+      <project id="isabella" values="Git" />
+      <project id="cerebro" values="Git" />
+      <project id="sentinel" values="Git" />
+      <project id="domino-help" values="Git" />
+      <project id="domino-client" values="Git" />
+      <project id="quark" values="Git" />
+      <project id="project-code" values="Git" />
+      <project id="longpoll" values="Git" />
+    </group>
+    <group name="frameworks">
+      <project id="scala-notebook" values="scala" />
+      <project id="compiler-test" values="scala" />
+      <project id="mylogger-sample" values="scala" />
+      <project id="isabella" values="scala" />
+      <project id="cerebro" values="scala" />
+      <project id="sentinel" values="scala" />
+      <project id="domino-help" values="scala" />
+      <project id="domino-client" values="scala" />
+      <project id="project-code" values="scala" />
+      <project id="quark" values="scala" />
+      <project id="longpoll" values="scala" />
+    </group>
+    <group name="file-type">
+      <project id="scala-notebook" values="JSON,HTML,LESS,JAVA,XML,IDEA_MODULE,PLAIN_TEXT,UNKNOWN,CSS,JavaScript,Images,Scala" />
+      <project id="compiler-test" values="IDEA_MODULE,JAVA,UNKNOWN,XML,PLAIN_TEXT,Scala" />
+      <project id="domino" values="Play2,Images,SASS,XML,HTML,JavaScript,LESS,Native,CSS,PLAIN_TEXT,IDEA_MODULE,Scala,SCSS,ARCHIVE,JAVA,JSON,UNKNOWN" />
+      <project id="mylogger-sample" values="HTML,CSS,JAVA,Images,JavaScript,PLAIN_TEXT,IDEA_MODULE,Scala,XML,UNKNOWN" />
+      <project id="myproj" values="XML,IDEA_MODULE,PLAIN_TEXT,Clojure,UNKNOWN" />
+      <project id="domino-help" values="JAVA,PLAIN_TEXT,Scala,CSS,HTML,Play2,LESS,IDEA_MODULE,Images,JSON,UNKNOWN,SCSS,SASS,CLASS,JavaScript,XML" />
+      <project id="domino-client" values="UNKNOWN,XML,JAVA,JSON,Scala,PLAIN_TEXT,IDEA_MODULE" />
+      <project id="project-code" values="CSS,IDEA_MODULE,Images,JAVA,UNKNOWN,PLAIN_TEXT,JavaScript,XML,HTML,Scala" />
+      <project id="quark" values="IDEA_MODULE,PLAIN_TEXT,XML,HTML,Images,Scala,JAVA,CSS,UNKNOWN,JavaScript" />
+      <project id="isabella" values="Images,LESS,Scala,JavaScript,SASS,UNKNOWN,XML,JAVA,HTML,PLAIN_TEXT,SCSS,IDEA_MODULE,CSS" />
+      <project id="cerebro" values="JSON,IDEA_MODULE,JAVA,Perl,XML,SQL files,PLAIN_TEXT,Scala,TypeScript,ARCHIVE,CoffeeScript,PATCH,C++,UNKNOWN,LESS,JavaScript,SCSS,CSS,Play2,HTML,C#,Images" />
+      <project id="sentinel" values="CSS,Scala,Play2,UNKNOWN,ARCHIVE,JAVA,Images,HTML,PLAIN_TEXT,JavaScript,XML,IDEA_MODULE" />
+      <project id="longpoll" values="IDEA_MODULE,Images,PLAIN_TEXT,HTML,JAVA,JavaScript,UNKNOWN,Scala,XML,CSS" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="domino" values="Specs2RunConfiguration" />
+      <project id="cerebro" values="Specs2RunConfiguration" />
+      <project id="sentinel" values="Application,Play2FrameworkRunConfigurations,Specs2RunConfiguration" />
+      <project id="domino-client" values="Specs2RunConfiguration" />
+      <project id="quark" values="Application" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="scala-notebook" values="DEFAULT" />
+      <project id="compiler-test" values="DEFAULT" />
+      <project id="domino" values="DEFAULT" />
+      <project id="mylogger-sample" values="DEFAULT" />
+      <project id="myproj" values="DEFAULT" />
+      <project id="domino-help" values="DEFAULT" />
+      <project id="domino-client" values="DEFAULT" />
+      <project id="project-code" values="DEFAULT" />
+      <project id="quark" values="DEFAULT" />
+      <project id="isabella" values="DEFAULT" />
+      <project id="cerebro" values="DEFAULT" />
+      <project id="sentinel" values="DEFAULT" />
+      <project id="longpoll" values="DEFAULT" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="scala-notebook" values="Project,Project" />
+      <project id="compiler-test" values="Project,Project" />
+      <project id="domino" values="Project,Project" />
+      <project id="mylogger-sample" values="Project,Project" />
+      <project id="myproj" values="Project,Project" />
+      <project id="domino-help" values="Project,Project" />
+      <project id="domino-client" values="Project,Project" />
+      <project id="project-code" values="Project,Project" />
+      <project id="quark" values="Project,Project" />
+      <project id="isabella" values="Project,Project" />
+      <project id="cerebro" values="Project,Project" />
+      <project id="sentinel" values="Project,Project" />
+      <project id="longpoll" values="Project,Project" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="192" />
+      <entry feature="execute.Application.Debug" count="92" />
+      <entry feature="execute.Application.Run" count="2" />
+      <entry feature="execute.JavascriptDebugSession.Debug" count="353" />
+      <entry feature="execute.Play2FrameworkRunConfigurations.Debug" count="7" />
+      <entry feature="execute.Remote.Debug" count="302" />
+      <entry feature="execute.Specs2RunConfiguration.Debug" count="261" />
+      <entry feature="execute.Specs2RunConfiguration.Run" count="4" />
+    </counts>
+  </component>
+</application>
+

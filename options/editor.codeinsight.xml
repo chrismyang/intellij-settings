@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="PARAMETER_INFO_DELAY" value="0" />
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+    <option name="JAVADOC_INFO_DELAY" value="0" />
+    <option name="AUTO_LOOKUP_DELAY" value="500" />
+    <option name="AUTOPOPUP_FOCUS_POLICY" value="1" />
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+    <EXCLUDED_PACKAGE NAME="com.amazonaws.services.simpleworkflow.model.Run" />
+    <EXCLUDED_PACKAGE NAME="com.sun.corba.se.spi.ior.ObjectId" />
+    <EXCLUDED_PACKAGE NAME="com.sun.java.util.jar.pack.Package.File" />
+    <EXCLUDED_PACKAGE NAME="java.text.Format" />
+    <EXCLUDED_PACKAGE NAME="org.specs2.Specification" />
+    <EXCLUDED_PACKAGE NAME="org.specs2.mutable.script.Specification" />
+    <EXCLUDED_PACKAGE NAME="org.specs2.specification.script.Specification" />
+    <EXCLUDED_PACKAGE NAME="play.templates.Format" />
+    <EXCLUDED_PACKAGE NAME="scala.sys.process.processInternal.File" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="Default">
+    <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
+    <option name="AUTOREPARSE_DELAY" value="300" />
+    <option name="SHOW_ADD_IMPORT_HINTS" value="true" />
+    <option name="NO_AUTO_IMPORT_PATTERN" value="[a-z].?" />
+    <option name="SUPPRESS_WARNINGS" value="true" />
+    <option name="SHOW_METHOD_SEPARATORS" value="false" />
+    <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
+    <option name="SHOW_SMALL_ICONS_IN_GUTTER" value="true" />
+  </component>
+  <component name="XmlFoldingSettings">
+    <option name="collapseHtmlStyleAttribute" value="false" />
+    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
+  </component>
+</application>
+
